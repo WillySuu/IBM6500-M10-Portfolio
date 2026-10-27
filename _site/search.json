@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "listings.html",
+    "href": "listings.html",
+    "title": "Listings in Quarto",
+    "section": "",
+    "text": "Quarto Listings allow users to organize and display collections of content, such as projects, articles, and reports.\nListings make it easier for visitors to explore different sections of a website.\n\n\n\n\nOrganize projects in one place.\nMake website navigation easier.\nDisplay project titles and descriptions.\nAutomatically update listings when new content is added.\nCreate a more professional portfolio.\n\n\n\n\nAs a Digital Marketing graduate student, I can use Quarto Listings to showcase my academic projects and technical skills.\nExamples include:\n\nMSDM Capstone Project\nMarketing Analytics Projects\nSQL and R Assignments\n\n\n\n\nThe following YAML code shows how to create a listing in Quarto:\nlisting:\n  contents: projects\n  type: grid\n  sort: \"date desc\"\nThis configuration displays project pages from a folder named projects in a grid layout, sorted by date.\n\n\n\nQuarto Listings provide an effective way to organize and present academic work. They can help make my digital marketing portfolio easier to navigate and maintain."
+  },
+  {
+    "objectID": "listings.html#what-are-quarto-listings",
+    "href": "listings.html#what-are-quarto-listings",
+    "title": "Listings in Quarto",
+    "section": "",
+    "text": "Quarto Listings allow users to organize and display collections of content, such as projects, articles, and reports.\nListings make it easier for visitors to explore different sections of a website."
+  },
+  {
+    "objectID": "listings.html#benefits-of-quarto-listings",
+    "href": "listings.html#benefits-of-quarto-listings",
+    "title": "Listings in Quarto",
+    "section": "",
+    "text": "Organize projects in one place.\nMake website navigation easier.\nDisplay project titles and descriptions.\nAutomatically update listings when new content is added.\nCreate a more professional portfolio."
+  },
+  {
+    "objectID": "listings.html#how-i-can-use-listings-in-my-portfolio",
+    "href": "listings.html#how-i-can-use-listings-in-my-portfolio",
+    "title": "Listings in Quarto",
+    "section": "",
+    "text": "As a Digital Marketing graduate student, I can use Quarto Listings to showcase my academic projects and technical skills.\nExamples include:\n\nMSDM Capstone Project\nMarketing Analytics Projects\nSQL and R Assignments"
+  },
+  {
+    "objectID": "listings.html#example-quarto-listing-configuration",
+    "href": "listings.html#example-quarto-listing-configuration",
+    "title": "Listings in Quarto",
+    "section": "",
+    "text": "The following YAML code shows how to create a listing in Quarto:\nlisting:\n  contents: projects\n  type: grid\n  sort: \"date desc\"\nThis configuration displays project pages from a folder named projects in a grid layout, sorted by date."
+  },
+  {
+    "objectID": "listings.html#conclusion",
+    "href": "listings.html#conclusion",
+    "title": "Listings in Quarto",
+    "section": "",
+    "text": "Quarto Listings provide an effective way to organize and present academic work. They can help make my digital marketing portfolio easier to navigate and maintain."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Hello! My name is Willy Su. I am currently pursuing a Master of Science in Digital Marketing at California State Polytechnic University, Pomona. I have a background in International Business, business analysis, and financial services.\n\n\n\nCalifornia State Polytechnic University, Pomona\n\nMaster of Science in Digital Marketing (Expected 2027)\nBachelor’s Degree in International Business (2024)\n\n\n\n\n\n\nRegional Specialist | August 2023 – Present\n\nAnalyze insurance products and prepare customized quotes.\nSupport client financial planning and coverage recommendations.\n\n\n\n\nBusiness Analyst | September 2021 – July 2023\n\nOptimized eCommerce product listings using keyword strategies.\nAnalyzed sales data to identify opportunities for improvement.\n\n\n\n\n\n\nMarket Research and Analysis\nData Analysis\nMicrosoft Excel\nR Programming (Basic)\nEnglish and Mandarin\n\n\n\n\nMy goal is to build a career that combines digital marketing, business analytics, and strategic decision-making. I hope to apply my analytical and marketing skills to help businesses better understand their customers and improve performance."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Home",
+    "section": "",
+    "text": "Hello! My name is Willy Su. I am currently pursuing a Master of Science in Digital Marketing at California State Polytechnic University, Pomona. I have a background in International Business, business analysis, and financial services."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Home",
+    "section": "",
+    "text": "California State Polytechnic University, Pomona\n\nMaster of Science in Digital Marketing (Expected 2027)\nBachelor’s Degree in International Business (2024)"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "Home",
+    "section": "",
+    "text": "Regional Specialist | August 2023 – Present\n\nAnalyze insurance products and prepare customized quotes.\nSupport client financial planning and coverage recommendations.\n\n\n\n\nBusiness Analyst | September 2021 – July 2023\n\nOptimized eCommerce product listings using keyword strategies.\nAnalyzed sales data to identify opportunities for improvement."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Home",
+    "section": "",
+    "text": "Market Research and Analysis\nData Analysis\nMicrosoft Excel\nR Programming (Basic)\nEnglish and Mandarin"
+  },
+  {
+    "objectID": "index.html#career-aspirations",
+    "href": "index.html#career-aspirations",
+    "title": "Home",
+    "section": "",
+    "text": "My goal is to build a career that combines digital marketing, business analytics, and strategic decision-making. I hope to apply my analytical and marketing skills to help businesses better understand their customers and improve performance."
+  },
+  {
+    "objectID": "css-scss.html",
+    "href": "css-scss.html",
+    "title": "Styling Quarto with CSS and SCSS",
+    "section": "",
+    "text": "CSS (Cascading Style Sheets) is used to control the appearance of a website, including colors, fonts, spacing, and layout.\nCSS helps make Quarto websites more attractive, professional, and user-friendly.\n\n\n\nSCSS (Sassy CSS) is an extension of CSS that supports additional features such as variables, nesting, and reusable styles.\nSCSS makes it easier to organize and maintain website styling.\n\n\n\nCSS can help me:\n\nCustomize website colors and backgrounds.\nImprove text readability.\nAdjust spacing and page layouts.\nMake my portfolio more professional.\n\n\n\n\nh1 {\n  color: #174A67;\n  font-size: 32px;\n}\n\nbody {\n  font-family: Arial, sans-serif;\n  line-height: 1.6;\n}\n\n\n\n$primary-color: #174A67;\n\nh1 {\n  color: $primary-color;\n}\n\n\n\nCSS and SCSS are useful tools for customizing Quarto websites. They allow me to create a consistent visual identity and improve the user experience of my digital marketing portfolio."
+  },
+  {
+    "objectID": "css-scss.html#what-is-css",
+    "href": "css-scss.html#what-is-css",
+    "title": "Styling Quarto with CSS and SCSS",
+    "section": "",
+    "text": "CSS (Cascading Style Sheets) is used to control the appearance of a website, including colors, fonts, spacing, and layout.\nCSS helps make Quarto websites more attractive, professional, and user-friendly."
+  },
+  {
+    "objectID": "css-scss.html#what-is-scss",
+    "href": "css-scss.html#what-is-scss",
+    "title": "Styling Quarto with CSS and SCSS",
+    "section": "",
+    "text": "SCSS (Sassy CSS) is an extension of CSS that supports additional features such as variables, nesting, and reusable styles.\nSCSS makes it easier to organize and maintain website styling."
+  },
+  {
+    "objectID": "css-scss.html#how-css-can-improve-my-portfolio",
+    "href": "css-scss.html#how-css-can-improve-my-portfolio",
+    "title": "Styling Quarto with CSS and SCSS",
+    "section": "",
+    "text": "CSS can help me:\n\nCustomize website colors and backgrounds.\nImprove text readability.\nAdjust spacing and page layouts.\nMake my portfolio more professional."
+  },
+  {
+    "objectID": "css-scss.html#example-css-styling",
+    "href": "css-scss.html#example-css-styling",
+    "title": "Styling Quarto with CSS and SCSS",
+    "section": "",
+    "text": "h1 {\n  color: #174A67;\n  font-size: 32px;\n}\n\nbody {\n  font-family: Arial, sans-serif;\n  line-height: 1.6;\n}"
+  },
+  {
+    "objectID": "css-scss.html#example-scss-variables",
+    "href": "css-scss.html#example-scss-variables",
+    "title": "Styling Quarto with CSS and SCSS",
+    "section": "",
+    "text": "$primary-color: #174A67;\n\nh1 {\n  color: $primary-color;\n}"
+  },
+  {
+    "objectID": "css-scss.html#conclusion",
+    "href": "css-scss.html#conclusion",
+    "title": "Styling Quarto with CSS and SCSS",
+    "section": "",
+    "text": "CSS and SCSS are useful tools for customizing Quarto websites. They allow me to create a consistent visual identity and improve the user experience of my digital marketing portfolio."
+  }
+]

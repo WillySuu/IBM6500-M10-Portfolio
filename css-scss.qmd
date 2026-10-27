@@ -1,0 +1,54 @@
+---
+title: "Styling Quarto with CSS and SCSS"
+---
+
+# CSS and SCSS in Quarto
+
+## What is CSS?
+
+CSS (Cascading Style Sheets) is used to control the appearance of a website, including colors, fonts, spacing, and layout.
+
+CSS helps make Quarto websites more attractive, professional, and user-friendly.
+
+## What is SCSS?
+
+SCSS (Sassy CSS) is an extension of CSS that supports additional features such as variables, nesting, and reusable styles.
+
+SCSS makes it easier to organize and maintain website styling.
+
+## How CSS Can Improve My Portfolio
+
+CSS can help me:
+
+-   Customize website colors and backgrounds.
+-   Improve text readability.
+-   Adjust spacing and page layouts.
+-   Make my portfolio more professional.
+
+## Example: CSS Styling
+
+``` css
+h1 {
+  color: #174A67;
+  font-size: 32px;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+```
+
+## Example: SCSS Variables
+
+``` scss
+$primary-color: #174A67;
+
+h1 {
+  color: $primary-color;
+}
+```
+
+## Conclusion
+
+CSS and SCSS are useful tools for customizing Quarto websites. They allow me to create a consistent visual identity and improve the user experience of my digital marketing portfolio.

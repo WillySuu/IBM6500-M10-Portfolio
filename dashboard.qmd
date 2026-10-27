@@ -1,0 +1,49 @@
+---
+title: "MSDM Capstone Dashboard"
+format: dashboard
+---
+
+# Project Overview
+
+## Project Information
+
+::: card
+### PhD Orthodontics
+
+This project focuses on improving digital marketing performance for an orthodontic practice.
+
+Key areas include:
+
+-   Website User Experience
+-   Search Engine Optimization (SEO)
+-   Google Ads Performance
+-   Consumer Insights
+-   Lead Generation
+:::
+
+# Research Objectives
+
+## Consumer Insights
+
+::: card
+### Research Focus
+
+Understand how website content and digital marketing influence prospective patients' trust, credibility, and intention to request a consultation.
+
+### Research Methods
+
+-   Online Surveys
+-   Consumer Behavior Analysis
+-   Descriptive Statistics
+-   Regression Analysis
+:::
+
+# Project Progress
+
+## Current Stage
+
+::: card
+### Research and Planning
+
+The project is currently focused on research design, survey development, and digital marketing analysis.
+:::

@@ -1,0 +1,46 @@
+---
+title: "Listings in Quarto"
+---
+
+# Listings in Quarto
+
+## What Are Quarto Listings?
+
+Quarto Listings allow users to organize and display collections of content, such as projects, articles, and reports.
+
+Listings make it easier for visitors to explore different sections of a website.
+
+## Benefits of Quarto Listings
+
+-   Organize projects in one place.
+-   Make website navigation easier.
+-   Display project titles and descriptions.
+-   Automatically update listings when new content is added.
+-   Create a more professional portfolio.
+
+## How I Can Use Listings in My Portfolio
+
+As a Digital Marketing graduate student, I can use Quarto Listings to showcase my academic projects and technical skills.
+
+Examples include:
+
+-   MSDM Capstone Project
+-   Marketing Analytics Projects
+-   SQL and R Assignments
+
+## Example: Quarto Listing Configuration
+
+The following YAML code shows how to create a listing in Quarto:
+
+``` yaml
+listing:
+  contents: projects
+  type: grid
+  sort: "date desc"
+```
+
+This configuration displays project pages from a folder named `projects` in a grid layout, sorted by date.
+
+## Conclusion
+
+Quarto Listings provide an effective way to organize and present academic work. They can help make my digital marketing portfolio easier to navigate and maintain.

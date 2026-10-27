@@ -1,0 +1,24 @@
+
+project:
+  type: website
+
+website:
+  title: "Willy Su | Digital Marketing Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: dashboard.qmd
+        text: Dashboard
+      - href: css-scss.qmd
+        text: CSS/SCSS
+      - href: listings.qmd
+        text: Listings
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
